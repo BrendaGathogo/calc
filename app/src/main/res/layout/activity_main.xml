@@ -140,6 +140,13 @@
                 android:text=">" />
 
             <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/eight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="8" />
+
+            <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/five"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -152,13 +159,6 @@
                 android:layout_height="wrap_content"
                 android:gravity="center"
                 android:text="2" />
-
-            <androidx.appcompat.widget.AppCompatButton
-                android:id="@+id/eight"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:gravity="center"
-                android:text="8" />
 
             <androidx.appcompat.widget.AppCompatButton
                 android:id="@+id/doublezero"
